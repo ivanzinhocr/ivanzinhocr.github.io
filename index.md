@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvido á miña páxina GitHub
 
 You can use the [editor on GitHub](https://github.com/ivanzinhocr/ivanzinhocr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
